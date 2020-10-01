@@ -1,2 +1,2 @@
 # Light-Bulb-On-Off
-# https://github.com/furkan-cloud/light-bulb-on-off
+# https://furkan-cloud.github.io/light-bulb-on-off/
