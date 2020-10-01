@@ -1,2 +1,2 @@
-# light-bulb-on-off
-light bulb project with js
+# Light-Bulb-On-Off
+# https://github.com/furkan-cloud/light-bulb-on-off
